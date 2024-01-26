@@ -1,0 +1,14 @@
+Problem: A retail company with a chain of stores across the United States needs to build an online ordering and shopping website to increase revenue 
+and profits. Based on historical sales data and analysis by economic experts at the company, the company has produced a relationship chart of shopping
+demand at stores by month of the year (In November has an important event is Black Friday).
+
+Answer: Dựa trên vấn đề đã nêu, mục tiêu là xây dựng một trang web đặt hàng và mua sắm trực tuyến cho một công ty bán lẻ có chuỗi cửa hàng trên 
+khắp nước Mỹ. Để đáp ứng nhu cầu tăng hoặc giảm của người dùng theo thời gian đồng thời tiết kiệm chi phí xây dựng và đảm bảo vận hành và bảo trì 
+hiệu quả, có thể xem xét các lựa chọn công nghệ cơ sở hạ tầng đám mấy ( Cloud-based Infrastructure ). Các lý do chính khi lựa chọn phương pháp xây dựng
+web như vậy bởi vì:
+1. Việc sử dụng cơ sở hạ tầng dựa trên đám mây, chẳng hạn như Microsoft Azure hoặc Amazon Web Services (AWS), có thể mang lại khả năng mở rộng và 
+hiệu quả về chi phí.
+2. Bằng cách tận dụng các dịch vụ đám mây, công ty có thể dễ dàng xử lý nhu cầu luôn biến động của người dùng và tăng hoặc giảm quy mô tài nguyên khi 
+cần thiết.
+3. Đảm bảo rằng trang web có thể đáp ứng lưu lượng truy cập tăng lên trong thời gian cao điểm, chẳng hạn như Thứ Sáu Đen, mà không phát sinh chi phí
+cơ sở hạ tầng cao trong suốt cả năm.
